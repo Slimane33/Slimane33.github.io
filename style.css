@@ -16,3 +16,15 @@ div.full-page {
 	height: 100vh; 
 	overflow: hidden;
 }
+
+#landing-page{
+	font-size: 30px;
+	font-size: 3.5rem;
+	color: white;
+	margin:0;
+	padding:0;
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50% );
+}
