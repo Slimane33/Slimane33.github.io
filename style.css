@@ -28,3 +28,24 @@ div.full-page {
 	left:50%;
 	transform: translate(-50%,-50% );
 }
+
+h2 {
+	font-size: 2em;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+p span {
+    display: block;
+}
+
+.panels {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 20px;
+	padding-left:30px;
+	padding-right:30px;
+}
